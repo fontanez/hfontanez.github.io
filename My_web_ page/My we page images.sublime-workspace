@@ -1,0 +1,350 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"h",
+				"h1\tTag"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"a",
+				"auto\tmargin"
+			],
+			[
+				"l",
+				"link\tTag"
+			],
+			[
+				"u",
+				"url()\tbackground-image"
+			],
+			[
+				"p",
+				"padding\tproperty"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"f",
+				"footer\tTag"
+			],
+			[
+				"s",
+				"size\tproperty"
+			],
+			[
+				"w",
+				"width\tproperty"
+			],
+			[
+				"he",
+				"header\tTag"
+			],
+			[
+				"fo",
+				"font\tproperty"
+			],
+			[
+				"m",
+				"margin-top\tproperty"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"fl",
+				"float\tproperty"
+			],
+			[
+				"tex",
+				"text-transform\tproperty"
+			],
+			[
+				"co",
+				"color\tproperty"
+			],
+			[
+				"bo",
+				"border-bottom\tproperty"
+			],
+			[
+				"b",
+				"background-color\tproperty"
+			],
+			[
+				"v",
+				"Volunteers"
+			],
+			[
+				"sT",
+				"Students"
+			],
+			[
+				"A",
+				"alt\tAttr"
+			],
+			[
+				"i",
+				"img\tTag"
+			],
+			[
+				"con",
+				"container"
+			],
+			[
+				"c",
+				"content\tAttr"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"t",
+				"text"
+			],
+			[
+				"r",
+				"radio"
+			],
+			[
+				"S",
+				"submit"
+			],
+			[
+				"n",
+				"Name"
+			],
+			[
+				"o",
+				"option\tTag"
+			],
+			[
+				"Pa",
+				"password"
+			],
+			[
+				"in",
+				"input\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Discover Packages"
+			],
+			[
+				"",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Lorem ipsum"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 158.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Ivan/Desktop/My web page",
+		"/C/Users/Ivan/Desktop/My web page/My_web_page_images"
+	],
+	"file_history":
+	[
+		"/C/Users/Ivan/Desktop/My web page/index.html",
+		"/C/Users/Ivan/Desktop/My web page/Contact.html",
+		"/C/Users/Ivan/Desktop/My web page/style.css",
+		"/C/Users/Ivan/Desktop/My web page/About.html",
+		"/C/Users/Ivan/Pictures/Saved Pictures/code_laptop.jpg",
+		"/C/Users/Ivan/AppData/Roaming/Sublime Text 3/Packages/User/My we page.html",
+		"/C/Users/Ivan/Desktop/My web page/images/logo code.png",
+		"/C/Users/Ivan/Desktop/Images/My_logo.jpg",
+		"/C/Users/Ivan/Desktop/Images/Profesionals.jpg",
+		"/C/Users/Ivan/Desktop/My web page/My_web_page.html",
+		"/C/Users/Ivan/Desktop/My web page/images/logo code.jpg",
+		"/C/Users/Ivan/Desktop/Images/My logo.jpg",
+		"/C/Users/Ivan/Desktop/My web page/MY_Web_Page_images/road under cloudy sky.jpg",
+		"/C/Users/Ivan/Desktop/My web page/code screen.png",
+		"/C/Users/Ivan/Desktop/Fix my Resume PRO/index.html",
+		"/C/Users/Ivan/Desktop/Fix my Resume PRO/About.html",
+		"/C/Users/Ivan/Desktop/Fix my Resume PRO/Services.html",
+		"/C/Users/Ivan/Desktop/Fix my Resume PRO/css/style.css",
+		"/C/Users/Ivan/Desktop/Fix my Resume PRO/Images/Resume.jpeg",
+		"/C/Users/Ivan/Desktop/Fix my Resume PRO/Images/Resume_in_screen.jpeg",
+		"/C/Users/Ivan/Desktop/Fix my Resume PRO/Service.html/Service.html",
+		"/C/Users/Ivan/Desktop/Fix my Resume PRO/Service.html",
+		"/C/Users/Ivan/Desktop/Fix my Resume PRO/Aout.html",
+		"/C/Users/Ivan/Downloads/acme_website",
+		"/C/Users/Ivan/Desktop/Fix my Resume PRO/index.html.txt"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 120.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 46.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Default/Syntax Tests.sublime-build",
+	"project": "My we page images.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 279.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
